@@ -2,20 +2,20 @@ import type { Config } from '@/types'
 
 const config: Config = {
   page: {
-    title: 'Shako - Keksi',
+    title: 'd',
     footer: true,
     borderRadius: 0.5,
     background: 'flickering-grid',
     // redirects: {
-    //   'discord': 'https://discord.gg/keksi',
+    //   'discord': 'https://discord.gg/chiemthuymai',
     // },
   },
   user: {
     //* Setting name and avatar will override the Lanyard user data
-    // name: 'Keksi',
+    // name: 'duc',
     // avatar: 'https://avatars.githubusercontent.com/u/28254289?v=4',
     // bio: 'Software Engineer',
-    discordId: '527147599942385674',
+    discordId: '1463044159358369877',
   },
   api: {
     //* Lanyard API URL (default: https://api.lanyard.rest/)
@@ -42,22 +42,22 @@ const config: Config = {
       {
         label: 'GitHub',
         icon: 'github',
-        url: 'https://github.com/keksiqc',
+        url: 'https://github.com/mutejoey',
       },
       {
         label: 'Discord',
         icon: 'discord',
-        url: 'https://discord.com/users/527147599942385674',
+        url: 'https://discord.com/users/1463044159358369877',
       },
       {
         label: 'Twitter',
         icon: 'x',
-        url: 'https://x.com/keksiqc',
+        url: 'https://x.com/cressrose6',
       },
       {
         label: 'Bluesky',
         icon: 'bluesky',
-        url: 'https://bsky.app/profile/keksi.dev',
+        url: 'https://bsky.app/profile/emnhoanhkhong',
       },
       {
         label: 'Steam',
